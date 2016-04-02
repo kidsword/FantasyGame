@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{4A2202D5-E9D8-5CA2-0186-EF78C2AA2187}") = "DawnOfSpring", "Assembly-CSharp-firstpass.csproj", "{C968252A-0EBB-69B2-0F63-25CE433E6033}"
+EndProject
+Project("{4A2202D5-E9D8-5CA2-0186-EF78C2AA2187}") = "DawnOfSpring", "Assembly-CSharp-Editor.csproj", "{F002A97A-A9F8-202F-615E-5E0D31978268}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C968252A-0EBB-69B2-0F63-25CE433E6033}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C968252A-0EBB-69B2-0F63-25CE433E6033}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C968252A-0EBB-69B2-0F63-25CE433E6033}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C968252A-0EBB-69B2-0F63-25CE433E6033}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F002A97A-A9F8-202F-615E-5E0D31978268}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F002A97A-A9F8-202F-615E-5E0D31978268}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F002A97A-A9F8-202F-615E-5E0D31978268}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F002A97A-A9F8-202F-615E-5E0D31978268}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

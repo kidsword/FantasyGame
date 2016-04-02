@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: 40de6339f53a9d549878535c98bdd481
+timeCreated: 1459116575
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: cenario:cenario:pCylinder1
+    100002: cenario:cenario:pCylinder2
+    100004: cenario:cenario:pCylinder3
+    100006: cenario:cenario:pCylinder4
+    100008: cenario:cenario:pCylinder5
+    100010: cenario:cenario:pCylinder6
+    100012: cenario:cenario:pPipe1
+    100014: cenario:cenario:pPipe2
+    100016: cenario:cenario:pPipe3
+    100018: cenario:group14
+    100020: cenario:group15
+    100022: cenario:pCube1
+    100024: cenario:pCylinder6
+    100026: cenario:pCylinder7
+    100028: cenario:pCylinder8
+    100030: cenario:pPipe2
+    100032: cenario:pPipe4
+    100034: cenario:pPlane1
+    100036: pCylinder4
+    100038: //RootNode
+    400000: cenario:cenario:pCylinder1
+    400002: cenario:cenario:pCylinder2
+    400004: cenario:cenario:pCylinder3
+    400006: cenario:cenario:pCylinder4
+    400008: cenario:cenario:pCylinder5
+    400010: cenario:cenario:pCylinder6
+    400012: cenario:cenario:pPipe1
+    400014: cenario:cenario:pPipe2
+    400016: cenario:cenario:pPipe3
+    400018: cenario:group14
+    400020: cenario:group15
+    400022: cenario:pCube1
+    400024: cenario:pCylinder6
+    400026: cenario:pCylinder7
+    400028: cenario:pCylinder8
+    400030: cenario:pPipe2
+    400032: cenario:pPipe4
+    400034: cenario:pPlane1
+    400036: pCylinder4
+    400038: //RootNode
+    2300000: cenario:cenario:pCylinder1
+    2300002: cenario:cenario:pCylinder2
+    2300004: cenario:cenario:pCylinder3
+    2300006: cenario:cenario:pCylinder4
+    2300008: cenario:cenario:pCylinder5
+    2300010: cenario:cenario:pCylinder6
+    2300012: cenario:cenario:pPipe1
+    2300014: cenario:cenario:pPipe2
+    2300016: cenario:cenario:pPipe3
+    2300018: cenario:pCube1
+    2300020: cenario:pCylinder6
+    2300022: cenario:pCylinder7
+    2300024: cenario:pCylinder8
+    2300026: cenario:pPipe2
+    2300028: cenario:pPipe4
+    2300030: cenario:pPlane1
+    2300032: pCylinder4
+    3300000: cenario:cenario:pCylinder1
+    3300002: cenario:cenario:pCylinder2
+    3300004: cenario:cenario:pCylinder3
+    3300006: cenario:cenario:pCylinder4
+    3300008: cenario:cenario:pCylinder5
+    3300010: cenario:cenario:pCylinder6
+    3300012: cenario:cenario:pPipe1
+    3300014: cenario:cenario:pPipe2
+    3300016: cenario:cenario:pPipe3
+    3300018: cenario:pCube1
+    3300020: cenario:pCylinder6
+    3300022: cenario:pCylinder7
+    3300024: cenario:pCylinder8
+    3300026: cenario:pPipe2
+    3300028: cenario:pPipe4
+    3300030: cenario:pPlane1
+    3300032: pCylinder4
+    4300000: cenario:cenario:pPipe1
+    4300002: pCylinder4
+    4300004: cenario:cenario:pCylinder1
+    4300006: cenario:pPipe2
+    4300008: cenario:pCylinder7
+    4300010: cenario:pCylinder8
+    4300012: cenario:pPipe4
+    4300014: cenario:pCylinder6
+    4300016: cenario:cenario:pCylinder2
+    4300018: cenario:cenario:pPipe2
+    4300020: cenario:cenario:pCylinder3
+    4300022: cenario:cenario:pCylinder4
+    4300024: cenario:cenario:pPipe3
+    4300026: cenario:cenario:pCylinder5
+    4300028: cenario:cenario:pCylinder6
+    4300030: cenario:pPlane1
+    4300032: cenario:pCube1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
